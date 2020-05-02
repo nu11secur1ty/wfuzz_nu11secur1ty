@@ -43,3 +43,8 @@ Documentation is available at http://wfuzz.readthedocs.io
 ## Download 
 
 Check github releases. Latest is available at https://github.com/xmendez/wfuzz/releases/latest
+
+## Usage
+```bash
+wfuzz -w wordlist/general/common.txt --hc 404 http://testphp.vulnweb.com/FUZZ
+```
