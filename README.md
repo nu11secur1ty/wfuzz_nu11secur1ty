@@ -48,3 +48,8 @@ Check github releases. Latest is available at https://github.com/xmendez/wfuzz/r
 ```bash
 wfuzz -w wordlist/general/common.txt --hc 404 http://testphp.vulnweb.com/FUZZ
 ```
+- - - SQL
+
+```bash
+wfuzz -w wordlist/Injections/SQL.txt --hc 404 http://testphp.vulnweb.com/FUZZ
+```
