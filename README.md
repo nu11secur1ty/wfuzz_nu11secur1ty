@@ -7,7 +7,10 @@
 <a href="https://codecov.io/github/xmendez/wfuzz"><img src="https://codecov.io/github/xmendez/wfuzz/coverage.svg?branch=master"></a>
 
 
-# Wfuzz - The Web Fuzzer
+# Wfuzz - The Web Fuzzer 
+
+- - - continuing of developing for wfuzz_nu11secur1ty from nu11secur1ty
+
 
 Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
